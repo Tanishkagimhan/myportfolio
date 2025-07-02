@@ -1,6 +1,6 @@
 import React, { lazy, Suspense } from 'react'
 import { motion } from 'framer-motion'
-import { Linkedin, Github, Twitter, ArrowUpRight } from 'lucide-react'
+import { Linkedin, Github, Facebook, ArrowUpRight, Instagram} from 'lucide-react'
 import { StatusIndicator } from '../../components/ui/status-indicator'
 import { SiteQualityBadge } from '../../components/ui/site-quality-badge'
 
@@ -22,6 +22,16 @@ export default function Footer() {
       name: 'GitHub',
       url: 'https://github.com/Tanishkagimhan',
       icon: <Github className="w-5 h-5" />
+    },
+    { 
+      name: 'Facebook',
+      url: 'https://www.facebook.com/share/16tXuCKHoe/?mibextid=wwXIfr',
+      icon: <Facebook className="w-5 h-5" />
+    },
+    { 
+      name: 'Instagram',
+      url: 'https://www.facebook.com/share/16tXuCKHoe/?mibextid=wwXIfr',
+      icon: <Instagram className="w-5 h-5" />
     }
   ];
 
