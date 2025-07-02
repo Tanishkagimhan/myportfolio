@@ -110,7 +110,7 @@ export default function HeroSection() {
               className="w-full h-full"
             >
               <img 
-                src="https://res.cloudinary.com/dvfrcaw1c/image/upload/v1727844899/nfiqbipqzllz5cs1ckew.png" 
+                src="https://github.com/Tanishkagimhan/myportfolio/blob/cb3d2c2370f2530b04de994c4880deaade3a7e84/Front-End/src/assets/Tanishkagimhan.png" 
                 alt="Tanishka Gimhan" 
                 className="w-full h-full object-cover"
               />
