@@ -112,9 +112,9 @@ export default function Header({ isMobile }) {
               whileTap={{ scale: 0.98 }}
             >
               <span className="bg-gradient-to-r from-black to-gray-700 bg-clip-text text-transparent">
-                dhruv
+                Tanishka Gimhan
               </span>
-              <span className="text-gray-500">.dev</span>
+              
               <motion.span 
                 className="absolute -bottom-1 left-0 h-[2px] bg-gradient-to-r from-blue-500 to-purple-500"
                 initial={{ width: 0 }}

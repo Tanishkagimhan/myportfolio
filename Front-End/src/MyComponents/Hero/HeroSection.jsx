@@ -31,7 +31,7 @@ export default function HeroSection() {
               className="mb-6"
             >
               <span className="text-sm font-medium tracking-wider bg-black text-white px-4 py-1.5 rounded-full">
-                PRODUCT DESIGNER & DEVELOPER
+                UI UX DESIGNER & DEVELOPER
               </span>
             </motion.div>
             
@@ -110,7 +110,7 @@ export default function HeroSection() {
               className="w-full h-full"
             >
               <img 
-                src="https://github.com/Tanishkagimhan/myportfolio/blob/cb3d2c2370f2530b04de994c4880deaade3a7e84/Front-End/src/assets/Tanishkagimhan.png" 
+                src="https://github.com/Tanishkagimhan/myportfolio/blob/main/Front-End/src/assets/Tanishkagimhan.png?raw=true" 
                 alt="Tanishka Gimhan" 
                 className="w-full h-full object-cover"
               />
