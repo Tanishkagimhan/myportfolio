@@ -8,30 +8,30 @@ import { ShoppingBag } from 'lucide-react'
 export default function ProjectsSection() {
   const projectCards = [
     { 
-      title: 'Happy Mobile – Online Mobile Store Management System – IT Project', 
-      description: 'Provider of software services',
-      image: 'https://res.cloudinary.com/dvfrcaw1c/image/upload/v1727845325/svfndwyjpmiieaeoriyd.png', 
+      title: 'Happy Mobile ', 
+      description: 'Online Mobile Store Management System – IT Project',
+      image: 'https://github.com/Tanishkagimhan/myportfolio/blob/main/Front-End/src/assets/online-mobile-store-management-system.png?raw=true', 
       link: '#',
       category: 'web',
-      tags: ['React', 'Node.js'],
+      tags: ['React','Node.js','MongoDB'],
       featured: true
     },
     { 
-      title: 'GT Financial Services', 
-      description: 'Cutting-edge fintech solutions for modern banking',
+      title: 'Job Jet', 
+      description: 'Job Management System–Mobile Application Development Project',
       image: 'https://res.cloudinary.com/dvfrcaw1c/image/upload/v1727845324/tpzin0k1cibvcuhcxp0x.png', 
       link: '#',
       category: 'web',
-      tags: ['React', 'Node.js', 'Tailwind CSS'],
+      tags: ['Kotlin', 'Firebase', 'Android Studio'],
       featured: true
     },
     { 
-      title: 'Synergy Institute', 
-      description: 'College for the future of education', 
+      title: 'Movie Hub', 
+      description: 'Online Movie and TV Series Download System – Web Application', 
       image: 'https://res.cloudinary.com/dvfrcaw1c/image/upload/v1727845325/jhtey6pdbnjzkqeqnphm.png', 
       link: '#',
       category: 'web',
-      tags: ['HTML', 'Tailwind CSS', 'JavaScript'],
+      tags: ['JavaScript', 'MySQL', 'Servlet'],
       featured: false
     }
     
@@ -71,7 +71,7 @@ export default function ProjectsSection() {
           transition={{ duration: 0.7 }}
         >
           <div className="max-w-4xl mx-auto text-center">
-            <motion.h3 
+            {/*<motion.h3 
               className="text-2xl md:text-3xl font-bold mb-4"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -117,7 +117,7 @@ export default function ProjectsSection() {
                 </motion.button>
               </Link>
             </motion.div>
-            
+            */}
             {/* Decorative elements */}
             <motion.div 
               className="absolute top-6 right-8 h-16 w-16 rounded-full bg-purple-400/20 blur-xl"
