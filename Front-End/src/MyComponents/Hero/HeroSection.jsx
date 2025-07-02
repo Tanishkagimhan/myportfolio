@@ -93,7 +93,7 @@ export default function HeroSection() {
           {/* Right column - Image */}
           <motion.div
             initial={{ opacity: 0, scale: 0.8 }}
-            animate={{ opacity: 1, scale: 1 }}
+            animate={{ opacity: 1, scale: 0.8 }}
             transition={{ 
               type: "spring",
               stiffness: 100,
@@ -102,12 +102,12 @@ export default function HeroSection() {
             }}
             className="relative aspect-square rounded-3xl overflow-hidden shadow-lg"
           >
-            <div className="absolute inset-0 bg-gradient-to-tr from-black/30 to-transparent z-10"></div>
+          <div className="absolute inset-0 bg-gradient-to-tr from-black/30 to-transparent z-20"></div>
             <motion.div
               initial={{ scale: 1.2 }}
-              animate={{ scale: 1 }}
+              animate={{ scale: 0.8 }}
               transition={{ duration: 1.5, ease: "easeOut" }}
-              className="w-full h-full"
+              className="w-full h-full rounded-3xl overflow-hidden relative z-10"
             >
               <img 
                 src="https://github.com/Tanishkagimhan/myportfolio/blob/main/Front-End/src/assets/Tanishkagimhan.png?raw=true" 

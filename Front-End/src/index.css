@@ -41,6 +41,7 @@
   button:focus {
     outline: none !important;
     box-shadow: none !important;
+    appearance: none;
     -webkit-appearance: none;
     -webkit-tap-highlight-color: transparent;
   }

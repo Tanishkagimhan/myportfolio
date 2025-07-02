@@ -20,7 +20,7 @@ export default function Footer() {
     },
     { 
       name: 'GitHub',
-      url: 'https://github.com/dhruv465',
+      url: 'https://github.com/Tanishkagimhan',
       icon: <Github className="w-5 h-5" />
     }
   ];
