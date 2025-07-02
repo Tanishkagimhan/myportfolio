@@ -13,9 +13,9 @@ export default function Header({ isMobile }) {
     { name: 'Home', href: '#home' },
     { name: 'About', href: '#about' },
     { name: 'Projects', href: '#projects' },
-    { name: 'Products', href: '/products' },
-    { name: 'FAQ', href: '#faq' },
-    // { name: 'Contact', href: '#contact' }
+    //{ name: 'Products', href: '/products' },
+    //{ name: 'FAQ', href: '#faq' },
+    //{ name: 'Contact', href: '#contact' }
   ]
 
   useEffect(() => {

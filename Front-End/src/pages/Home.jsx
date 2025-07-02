@@ -98,7 +98,7 @@ export default function Home() {
         {/* Testimonial section removed */}
 
         <section id="faq" className="relative">
-          <Faq />
+          {/*<Faq />*/}
         </section>
 
         <section id="contact" className="relative">

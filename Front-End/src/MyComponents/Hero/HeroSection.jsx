@@ -122,8 +122,8 @@ export default function HeroSection() {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.7, duration: 0.5 }}
               >
-                <span className="text-white/90 text-sm uppercase tracking-wider font-medium">Available for work</span>
-                <h3 className="text-white text-xl font-semibold">Let's collaborate on your next project</h3>
+                {/*<span className="text-white/90 text-sm uppercase tracking-wider font-medium">Available for work</span>
+                <h3 className="text-white text-xl font-semibold">Let's collaborate on your next project</h3>*/}
               </motion.div>
             </div>
           </motion.div>
