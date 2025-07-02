@@ -48,7 +48,7 @@ export default function HeroSection() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-gray-600 text-lg md:text-xl mb-10 max-w-lg"
             >
-              I'm a full-stack developer and designer creating AI-enhanced solutions and crafting thoughtful user experiences.
+              I'm a full-stack developer and designer creating best solutions and crafting thoughtful user experiences.
             </motion.p>
             
             <motion.div

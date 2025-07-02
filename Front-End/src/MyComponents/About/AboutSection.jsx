@@ -11,11 +11,11 @@ export default function AboutSection() {
     },
     {
       category: 'Design',
-      items: ['UI/UX', 'Figma', 'Adobe Suite', 'Prototyping', 'Motion Design']
+      items: ['UI/UX', 'Figma', 'Adobe Suite', 'Prototyping', ]
     },
     {
       category: 'Tools',
-      items: ['Git', 'AWS', 'Firebase', 'Docker', 'Vercel']
+      items: ['Git', 'AWS', 'Firebase', 'Docker', 'Vercel' , 'MongoDB']
     }
   ]
 

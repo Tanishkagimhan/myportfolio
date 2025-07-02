@@ -8,10 +8,10 @@ import { ShoppingBag } from 'lucide-react'
 export default function ProjectsSection() {
   const projectCards = [
     { 
-      title: 'Niri Global', 
+      title: 'Happy Mobile – Online Mobile Store Management System – IT Project', 
       description: 'Provider of software services',
       image: 'https://res.cloudinary.com/dvfrcaw1c/image/upload/v1727845325/svfndwyjpmiieaeoriyd.png', 
-      link: 'https://niriglobal.com',
+      link: '#',
       category: 'web',
       tags: ['React', 'Node.js'],
       featured: true
@@ -20,7 +20,7 @@ export default function ProjectsSection() {
       title: 'GT Financial Services', 
       description: 'Cutting-edge fintech solutions for modern banking',
       image: 'https://res.cloudinary.com/dvfrcaw1c/image/upload/v1727845324/tpzin0k1cibvcuhcxp0x.png', 
-      link: 'https://gtfinancialservices.in',
+      link: '#',
       category: 'web',
       tags: ['React', 'Node.js', 'Tailwind CSS'],
       featured: true
@@ -29,11 +29,12 @@ export default function ProjectsSection() {
       title: 'Synergy Institute', 
       description: 'College for the future of education', 
       image: 'https://res.cloudinary.com/dvfrcaw1c/image/upload/v1727845325/jhtey6pdbnjzkqeqnphm.png', 
-      link: 'https://synergyinstitutes.com',
+      link: '#',
       category: 'web',
       tags: ['HTML', 'Tailwind CSS', 'JavaScript'],
       featured: false
     }
+    
   ];
 
   return (

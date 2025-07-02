@@ -14,8 +14,8 @@ const Loader = ({ progress }) => {
         className="mb-8"
       >
         <h1 className="text-2xl md:text-3xl font-bold">
-          <span>dhruv</span>
-          <span className="text-gray-400">.dev</span>
+          <span>Tanishka Gimhan</span>
+          
         </h1>
       </motion.div>
       
