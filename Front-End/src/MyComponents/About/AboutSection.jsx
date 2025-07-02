@@ -7,7 +7,7 @@ export default function AboutSection() {
   const skills = [
     { 
       category: 'Development',
-      items: ['JavaScript', 'React', 'Node.js', 'TypeScript', 'Next.js']
+      items: ['JavaScript', 'React', 'Node.js', 'TypeScript', 'Node.js']
     },
     {
       category: 'Design',
@@ -15,7 +15,7 @@ export default function AboutSection() {
     },
     {
       category: 'Tools',
-      items: ['Git', 'AWS', 'Firebase', 'Docker', 'Vercel' , 'MongoDB']
+      items: ['Git', 'AWS', 'Firebase', 'Vercel' , 'MongoDB']
     }
   ]
 

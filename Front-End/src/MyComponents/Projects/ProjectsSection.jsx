@@ -19,7 +19,7 @@ export default function ProjectsSection() {
     { 
       title: 'Job Jet', 
       description: 'Job Management System–Mobile Application Development Project',
-      image: 'https://res.cloudinary.com/dvfrcaw1c/image/upload/v1727845324/tpzin0k1cibvcuhcxp0x.png', 
+      image: 'https://github.com/Tanishkagimhan/myportfolio/blob/main/Front-End/src/assets/job-management-sys.png?raw=true', 
       link: '#',
       category: 'web',
       tags: ['Kotlin', 'Firebase', 'Android Studio'],
@@ -28,7 +28,7 @@ export default function ProjectsSection() {
     { 
       title: 'Movie Hub', 
       description: 'Online Movie and TV Series Download System – Web Application', 
-      image: 'https://res.cloudinary.com/dvfrcaw1c/image/upload/v1727845325/jhtey6pdbnjzkqeqnphm.png', 
+      image: 'https://github.com/Tanishkagimhan/myportfolio/blob/main/Front-End/src/assets/Movie-and-TV-Series.png?raw=true', 
       link: '#',
       category: 'web',
       tags: ['JavaScript', 'MySQL', 'Servlet'],

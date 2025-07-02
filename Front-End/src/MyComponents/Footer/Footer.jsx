@@ -15,7 +15,7 @@ export default function Footer() {
   const socialLinks = [
     { 
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/dhruv-sathe-100b9428b',
+      url: 'https://www.linkedin.com/in/tanishkagimhan/',
       icon: <Linkedin className="w-5 h-5" />
     },
     { 
@@ -42,10 +42,10 @@ export default function Footer() {
   return (
     <footer className="bg-black text-white py-16 md:py-24 relative overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-30">
           {/* Column 1 - Brand */}
           <div>
-            <h2 className="text-2xl font-bold mb-6">dhruv<span className="text-gray-400">.dev</span></h2>
+            <h2 className="text-2xl font-bold mb-6">Tanishka Gimhan</h2>
             <p className="text-gray-400 mb-6 max-w-xs">
               Building digital products, brands, and experiences that people love.
             </p>
